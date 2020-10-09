@@ -6,7 +6,7 @@ This starter is using css frameworks [Uikit](https://getuikit.com) and Bulma.
 
 ## Install
 
-    gatsby new dir_name 
+    gatsby new dir_name https://github.com/jackjasonb/gatsby-wordpress-experimental-uikit-starter
     cd dir_name
     cp .env.example .env
 

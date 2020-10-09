@@ -1,0 +1,20 @@
+$line: rgb(229, 229, 229);
+
+#card {
+  border: solid 1px $line;
+  h5 {
+    margin: 0 0 10px;
+    // font-size: calc(70% + 0.5vw);
+    font-size: 110%;
+    font-weight: 600;
+    &:hover {
+      color: #1d81d3 !important;
+      text-decoration: none !important;
+    }
+  }
+}
+
+#divide {
+  border-color: $line;
+  margin: 0;
+}
